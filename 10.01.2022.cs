@@ -50,7 +50,7 @@ class Square : Imagine
 
 main
 {
-    Square square = new Square(10);
+    Square square = new Square();
     Image image = new Image;
     square.Draw(image);
 
